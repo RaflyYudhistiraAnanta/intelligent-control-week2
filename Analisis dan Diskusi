@@ -1,0 +1,20 @@
+Bagaimana performa model dalam mendeteksi warna?
+Performa model tidak langsung mendeteksi warna, perlu proses terlebih dahulu untuk mengenali warna.
+
+ Bagaimana perbedaan akurasi jika jumlah dataset ditambah?
+dapat meningkatkan akurasi,karena memiliki banyak contoh untuk belajar.
+
+Bagaimana cara meningkatkan kinerja model klasifikasi ?
+1. perbaikan kualitas data 
+2. pemilihan model yang tepat 
+3. validasi model 
+
+
+Apa keuntungan Machine Learning dibandingkan metode berbasis aturan (rule-based)?
+kemampuannya untuk belajar dan beradaptasi secara otomatis, fleksibel dan juga efisien 
+
+Bagaimana ML dapat diintegrasikan lebih lanjut dalam sistem kendali?
+integrasi ML ke sistem kendali membuat sistem lebih pintar, sistem tidak hanya bereaksi ketika ada masalah tapi juga bisa memprediksi jika akan ada masalah, dan juga ML memungkinkan sistem kendali bekerja lebih baik.
+
+Apa saja tantangan dalam penerapan ML dalam sistem real-time?
+tantangan nya yaitu tentang penundaan waktu, dimana mmodel harus memproses data dan memberikan prediksi dalam hitungan yang cepat. kemudian ada variabilitas data, data yang masuk secara real time bervairiasi dan mengandung noise yang tinggi.
